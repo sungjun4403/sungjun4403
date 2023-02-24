@@ -1,6 +1,8 @@
 - <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>&nbsp;&nbsp;
+<a href="https://dev.java/" title="Java"><img src="" alt="Java" width="30px" height="30px"></a>&nbsp;&nbsp;
 
 - <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="30px" height="30px"></a>&nbsp;&nbsp;
+<a href="https://spring.io/" title="Spring Boot"><img src="" alt="Spring Boot" width="30px" height="30px"></a>&nbsp;&nbsp;
 
 - <a href="https://www.sqlite.org/index.html" title="SQLite"><img src="https://user-images.githubusercontent.com/96364048/191542708-cc130c01-43ec-431b-9947-2f257fa242e1.png" alt="SQLite" height="30px"></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="30px"></a>&nbsp;&nbsp;
