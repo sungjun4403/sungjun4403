@@ -21,7 +21,18 @@
 - <a href="https://github.com" title="Github"><img src="https://user-images.githubusercontent.com/96364048/191507555-71f0f2b7-e275-4ab6-85ed-fb03247bdbda.png" alt="Github" width="30px" height="30px"></a>&nbsp;&nbsp;
 <a href="https://www.google.com/drive/" title="Google Drive"><img src="https://user-images.githubusercontent.com/96364048/191513979-da4616a5-bd00-4050-8691-fa2a6dfd7372.png" alt="Google Drive" height="30px"></a>&nbsp;&nbsp;
 
+<br/><br/>
 
+멋사 운영진 분들! 여기 좀 보세용! <br/>
 
+__ML_BULR__ &nbsp; | &nbsp; <a href = "https://github.com/sungjun4403/ML_BLURinfo/blob/main/%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.md"> ⏯️ 시연 영상</a> <br/>
+
+__Poll__ &nbsp; | &nbsp; <a href = "https://github.com/sungjun4403/Poll/blob/main/%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.md"> ⏯️ 시연 영상</a> <br/>
+
+__O_baksa_go__ &nbsp; | &nbsp; <a href = "https://github.com/sungjun4403/O_baksa_go/blob/main/%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.md"> ⏯️ 시연 영상</a> <br/>
+
+__Large__(진행중) &nbsp; | &nbsp; <a href="https://github.com/sungjun4403/Large/blob/main/log.md">📋 개발 로그 및 이슈 기록</a>
+
+<br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungjun4403&count_bg=%23A2A2A2&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
